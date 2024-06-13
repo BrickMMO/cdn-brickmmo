@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "font-icons";
+  src: url("https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.eot?b60308132e1464aebeee3e0fe8cee70b?#iefix")
+      format("embedded-opentype"),
+    url("https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.woff2?b60308132e1464aebeee3e0fe8cee70b")
+      format("woff2"),
+    url("https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.woff?b60308132e1464aebeee3e0fe8cee70b")
+      format("woff"),
+    url("https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.ttf?b60308132e1464aebeee3e0fe8cee70b")
+      format("truetype"),
+    url("https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.svg?b60308132e1464aebeee3e0fe8cee70b#font-icons")
+      format("svg");
+}
+
+i[class^="bm-"]:before,
+i[class*=" bm-"]:before {
+  font-family: font-icons !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bm-brix:before {
+  content: "\f101";
+}
+.bm-navigation:before {
+  content: "\f102";
+}
