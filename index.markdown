@@ -2,7 +2,15 @@
 
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
 
-## The recommended CDN for all shared BrickMMO images, icons, CSS, and JavaScript files.
+**The recommended CDN for all shared BrickMMO images, icons, CSS, and JavaScript files.**
+
+## Quickstart
+
+### Font Icons
+
+```
+https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.css
+```
 
 ---
 
