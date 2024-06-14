@@ -14,6 +14,8 @@ CSS include files to use the [BrickMMO Font Icons](https://fonticons.brickmmo.co
 https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.css
 ```
 
+> Available Versions: 1.0.0
+
 ### Icons
 
 PNG versions of the BRickMMO application icons from the [BrickMMO Branding Guidelines](https://branding.brickmmo.com).
@@ -42,6 +44,8 @@ https://cdn.brickmmo.com/icons@1.0.0/train.png
 https://cdn.brickmmo.com/icons@1.0.0/videokit.png
 ```
 
+> Available Versions: 1.0.0
+
 ## Images
 
 Common branding images from the [BrickMMO Branding Guidelines](https://branding.brickmmo.com).
@@ -53,6 +57,8 @@ https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png
 https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured.png
 ```
 
+> Available Versions: 1.0.0
+
 ## Readme
 
 CSS to be included in all README.md files following the [\_readme Guidelins](readme.codeadam.ca).
@@ -60,6 +66,8 @@ CSS to be included in all README.md files following the [\_readme Guidelins](rea
 ```
 https://cdn.brickmmo.com/readm@1.0.0/readme.css
 ```
+
+> Available Versions: 1.0.0
 
 ---
 
