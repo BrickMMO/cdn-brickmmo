@@ -1,4 +1,23 @@
 {
-    "brix": "\\f101",
-    "navigation": "\\f102"
+    "brick_overflow": "\\f101",
+    "bricksum": "\\f102",
+    "brix": "\\f103",
+    "colours": "\\f104",
+    "control_panel": "\\f105",
+    "events": "\\f106",
+    "flow": "\\f107",
+    "navigation": "\\f108",
+    "parts": "\\f109",
+    "pick_a_nrick": "\\f10a",
+    "placekit": "\\f10b",
+    "power_grid": "\\f10c",
+    "qr": "\\f10d",
+    "radio_station": "\\f10e",
+    "roadview": "\\f10f",
+    "stores": "\\f110",
+    "timeline": "\\f111",
+    "timesheets": "\\f112",
+    "tracks": "\\f113",
+    "train": "\\f114",
+    "videokit": "\\f115"
 }

@@ -1,32 +1,83 @@
 @font-face {
-  font-family: "font-icons";
-  src: url("https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.eot?b60308132e1464aebeee3e0fe8cee70b?#iefix")
-      format("embedded-opentype"),
-    url("https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.woff2?b60308132e1464aebeee3e0fe8cee70b")
-      format("woff2"),
-    url("https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.woff?b60308132e1464aebeee3e0fe8cee70b")
-      format("woff"),
-    url("https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.ttf?b60308132e1464aebeee3e0fe8cee70b")
-      format("truetype"),
-    url("https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.svg?b60308132e1464aebeee3e0fe8cee70b#font-icons")
-      format("svg");
+    font-family: "font-icons";
+    src: url("./font-icons.eot?714ef8006c9ea867f0aaab1e7cdce14f?#iefix") format("embedded-opentype"),
+url("./font-icons.woff2?714ef8006c9ea867f0aaab1e7cdce14f") format("woff2"),
+url("./font-icons.woff?714ef8006c9ea867f0aaab1e7cdce14f") format("woff"),
+url("./font-icons.ttf?714ef8006c9ea867f0aaab1e7cdce14f") format("truetype"),
+url("./font-icons.svg?714ef8006c9ea867f0aaab1e7cdce14f#font-icons") format("svg");
 }
 
-i[class^="bm-"]:before,
-i[class*=" bm-"]:before {
-  font-family: font-icons !important;
-  font-style: normal;
-  font-weight: normal !important;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+i[class^="bm-"]:before, i[class*=" bm-"]:before {
+    font-family: font-icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
+.bm-brick_overflow:before {
+    content: "\f101";
+}
+.bm-bricksum:before {
+    content: "\f102";
+}
 .bm-brix:before {
-  content: "\f101";
+    content: "\f103";
+}
+.bm-colours:before {
+    content: "\f104";
+}
+.bm-control_panel:before {
+    content: "\f105";
+}
+.bm-events:before {
+    content: "\f106";
+}
+.bm-flow:before {
+    content: "\f107";
 }
 .bm-navigation:before {
-  content: "\f102";
+    content: "\f108";
+}
+.bm-parts:before {
+    content: "\f109";
+}
+.bm-pick_a_nrick:before {
+    content: "\f10a";
+}
+.bm-placekit:before {
+    content: "\f10b";
+}
+.bm-power_grid:before {
+    content: "\f10c";
+}
+.bm-qr:before {
+    content: "\f10d";
+}
+.bm-radio_station:before {
+    content: "\f10e";
+}
+.bm-roadview:before {
+    content: "\f10f";
+}
+.bm-stores:before {
+    content: "\f110";
+}
+.bm-timeline:before {
+    content: "\f111";
+}
+.bm-timesheets:before {
+    content: "\f112";
+}
+.bm-tracks:before {
+    content: "\f113";
+}
+.bm-train:before {
+    content: "\f114";
+}
+.bm-videokit:before {
+    content: "\f115";
 }
