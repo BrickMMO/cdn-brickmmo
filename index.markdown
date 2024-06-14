@@ -11,7 +11,7 @@
 CSS include files to use the [BrickMMO Font Icons](https://fonticons.brickmmo.com).
 
 ```
-https://cdn.brickmmo.com/font-icons@1.0.0/font-icons.css
+https://cdn.brickmmo.com/fonticons@1.0.0/fonticons.css
 ```
 
 > Available Versions: 1.0.0

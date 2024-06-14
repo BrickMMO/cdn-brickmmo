@@ -1,14 +1,14 @@
 @font-face {
-    font-family: "font-icons";
-    src: url("./font-icons.eot?a9fea0f4f6fd0b914bb8a3c150c8b06e?#iefix") format("embedded-opentype"),
-url("./font-icons.woff2?a9fea0f4f6fd0b914bb8a3c150c8b06e") format("woff2"),
-url("./font-icons.woff?a9fea0f4f6fd0b914bb8a3c150c8b06e") format("woff"),
-url("./font-icons.ttf?a9fea0f4f6fd0b914bb8a3c150c8b06e") format("truetype"),
-url("./font-icons.svg?a9fea0f4f6fd0b914bb8a3c150c8b06e#font-icons") format("svg");
+    font-family: "fonticons";
+    src: url("./fonticons.eot?6c45d5b7fb6ae71b05b8511f07597d33?#iefix") format("embedded-opentype"),
+url("./fonticons.woff2?6c45d5b7fb6ae71b05b8511f07597d33") format("woff2"),
+url("./fonticons.woff?6c45d5b7fb6ae71b05b8511f07597d33") format("woff"),
+url("./fonticons.ttf?6c45d5b7fb6ae71b05b8511f07597d33") format("truetype"),
+url("./fonticons.svg?6c45d5b7fb6ae71b05b8511f07597d33#fonticons") format("svg");
 }
 
 i[class^="bm-"]:before, i[class*=" bm-"]:before {
-    font-family: font-icons !important;
+    font-family: fonticons !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;
