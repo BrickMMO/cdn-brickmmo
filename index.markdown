@@ -72,5 +72,5 @@ https://cdn.brickmmo.com/readm@1.0.0/readme.css
 ---
 
 <a href="https://brickmmo.com">
-<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.jpg" width="100">
+<img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="100">
 </a>
