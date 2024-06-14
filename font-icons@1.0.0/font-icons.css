@@ -1,10 +1,10 @@
 @font-face {
     font-family: "font-icons";
-    src: url("./font-icons.eot?714ef8006c9ea867f0aaab1e7cdce14f?#iefix") format("embedded-opentype"),
-url("./font-icons.woff2?714ef8006c9ea867f0aaab1e7cdce14f") format("woff2"),
-url("./font-icons.woff?714ef8006c9ea867f0aaab1e7cdce14f") format("woff"),
-url("./font-icons.ttf?714ef8006c9ea867f0aaab1e7cdce14f") format("truetype"),
-url("./font-icons.svg?714ef8006c9ea867f0aaab1e7cdce14f#font-icons") format("svg");
+    src: url("./font-icons.eot?a9fea0f4f6fd0b914bb8a3c150c8b06e?#iefix") format("embedded-opentype"),
+url("./font-icons.woff2?a9fea0f4f6fd0b914bb8a3c150c8b06e") format("woff2"),
+url("./font-icons.woff?a9fea0f4f6fd0b914bb8a3c150c8b06e") format("woff"),
+url("./font-icons.ttf?a9fea0f4f6fd0b914bb8a3c150c8b06e") format("truetype"),
+url("./font-icons.svg?a9fea0f4f6fd0b914bb8a3c150c8b06e#font-icons") format("svg");
 }
 
 i[class^="bm-"]:before, i[class*=" bm-"]:before {
@@ -18,7 +18,7 @@ i[class^="bm-"]:before, i[class*=" bm-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.bm-brick_overflow:before {
+.bm-brick-overflow:before {
     content: "\f101";
 }
 .bm-bricksum:before {
@@ -30,7 +30,7 @@ i[class^="bm-"]:before, i[class*=" bm-"]:before {
 .bm-colours:before {
     content: "\f104";
 }
-.bm-control_panel:before {
+.bm-control-panel:before {
     content: "\f105";
 }
 .bm-events:before {
@@ -45,19 +45,19 @@ i[class^="bm-"]:before, i[class*=" bm-"]:before {
 .bm-parts:before {
     content: "\f109";
 }
-.bm-pick_a_nrick:before {
+.bm-pick-a-brick:before {
     content: "\f10a";
 }
 .bm-placekit:before {
     content: "\f10b";
 }
-.bm-power_grid:before {
+.bm-power-grid:before {
     content: "\f10c";
 }
 .bm-qr:before {
     content: "\f10d";
 }
-.bm-radio_station:before {
+.bm-radio-station:before {
     content: "\f10e";
 }
 .bm-roadview:before {
