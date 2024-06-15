@@ -71,7 +71,8 @@ https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png
 https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured.png
 ```
 
-> Available Versions: 1.0.0
+> Available Versions: 1.0.0  
+> Documentation: [branding.brickmmo.com](https://branding.brickmmo.com)
 
 ## Readme
 
