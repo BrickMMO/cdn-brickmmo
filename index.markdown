@@ -27,6 +27,7 @@ https://cdn.brickmmo.com/fonticons@1.0.0/fonticons.css
 ```
 
 > Available Versions: 1.0.0
+> Documentation: [fonticons.brickmmo.com](https://fonticons.brickmmo.com)
 
 ### Icons
 
@@ -57,6 +58,7 @@ https://cdn.brickmmo.com/icons@1.0.0/videokit.png
 ```
 
 > Available Versions: 1.0.0
+> Documentation: [branding.brickmmo.com](https://branding.brickmmo.com)
 
 ## Images
 
@@ -80,6 +82,7 @@ https://cdn.brickmmo.com/readm@1.0.0/readme.css
 ```
 
 > Available Versions: 1.0.0
+> Documentation: [readme.codeadam.ca](https://readme.codeadam.ca)
 
 ---
 
