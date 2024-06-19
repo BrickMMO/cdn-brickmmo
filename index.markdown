@@ -18,6 +18,18 @@ Include JavaScript files by placing a `<script>` tag directly before your closin
 
 ## Quickstart
 
+### Exceptions
+
+CSS include files when using BrickMMO tempates. These CSS files overwrite W3.CSS and Bootstrap colours with BrickMMO brand colours and prvide some additional CSS classes.
+
+```
+https://cdn.brickmmo.com/exceptions@1.0.0/w3.css
+https://cdn.brickmmo.com/exceptions@1.0.0/bootstrap.css
+```
+
+> Available Versions: 1.0.0  
+> Documentation: [fonticons.brickmmo.com](https://fonticons.brickmmo.com)
+
 ### Font Icons
 
 CSS include files to use the [BrickMMO Font Icons](https://fonticons.brickmmo.com).
