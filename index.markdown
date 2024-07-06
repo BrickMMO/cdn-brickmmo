@@ -25,6 +25,7 @@ CSS include files when using BrickMMO tempates. These CSS files overwrite W3.CSS
 ```
 https://cdn.brickmmo.com/exceptions@1.0.0/w3.css
 https://cdn.brickmmo.com/exceptions@1.0.0/bootstrap.css
+https://cdn.brickmmo.com/exceptions@1.0.0/fontawesome.css
 ```
 
 > Available Versions: 1.0.0  
