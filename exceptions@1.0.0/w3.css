@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
-body,h1,h2,h3,h4,h5,h6 {font-family: Inter, sans-serif;}
+body,h1,h2,h3,h4,h5,h6 {
+  font-family: Inter, sans-serif;
+  color: #444;
+}
 
 .w3-orange {
   background-color: #ff5b00 !important;
