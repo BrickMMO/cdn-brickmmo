@@ -71,6 +71,10 @@ a.w3-text-red:hover {
   width: 15px;
 }
 
+.bm-table-icon {
+  width: 50px;
+}
+
 .bm-selected {
   background-color: #f6f6f6;
   border-right: 3px solid #848484 !important;
