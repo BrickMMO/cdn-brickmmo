@@ -79,3 +79,7 @@ a.w3-text-red:hover {
   background-color: #f6f6f6;
   border-right: 3px solid #848484 !important;
 }
+
+.bm-pointer {
+  cursor: pointer;
+}
