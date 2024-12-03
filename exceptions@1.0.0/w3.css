@@ -69,12 +69,12 @@ a.w3-text-red:hover {
 
 .bm-table-icon {
   width: 15px;
-  text-align: center;
+  text-align: center !important;
 }
 
 .bm-table-number {
   width: 75px;
-  text-align: center;
+  text-align: center !important;
 }
 
 .bm-selected {
