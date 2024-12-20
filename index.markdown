@@ -2,9 +2,34 @@
 
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
 
-**The recommended CDN for all shared BrickMMO images, icons, CSS, and JavaScript files.**
+**BrickMMO CDN is the recommended CDN for all shared BrickMMO images, icons, CSS, and JavaScript files.**
+
+Include CSS files by placing a `<link>` tag in the `<head>` section of your HTML document:
+
+```
+<link rel="stylesheet" href="https://cdn.brickmmo.com/library@1.0.0/librry.css">
+```
+
+Include JavaScript files by placing a `<script>` tag directly before your closing `</body>` tag in your HTML document:
+
+```
+<script src="https://cdn.brickmmo.com/library@1.0.0/librry.js"></script>
+```
 
 ## Quickstart
+
+### Exceptions
+
+CSS include files when using BrickMMO tempates. These CSS files overwrite W3.CSS and Bootstrap colours with BrickMMO brand colours and prvide some additional CSS classes.
+
+```
+https://cdn.brickmmo.com/exceptions@1.0.0/w3.css
+https://cdn.brickmmo.com/exceptions@1.0.0/bootstrap.css
+https://cdn.brickmmo.com/exceptions@1.0.0/fontawesome.css
+```
+
+> Available Versions: 1.0.0  
+> Documentation: [fonticons.brickmmo.com](https://fonticons.brickmmo.com)
 
 ### Font Icons
 
@@ -14,7 +39,8 @@ CSS include files to use the [BrickMMO Font Icons](https://fonticons.brickmmo.co
 https://cdn.brickmmo.com/fonticons@1.0.0/fonticons.css
 ```
 
-> Available Versions: 1.0.0
+> Available Versions: 1.0.0  
+> Documentation: [fonticons.brickmmo.com](https://fonticons.brickmmo.com)
 
 ### Icons
 
@@ -44,7 +70,8 @@ https://cdn.brickmmo.com/icons@1.0.0/train.png
 https://cdn.brickmmo.com/icons@1.0.0/videokit.png
 ```
 
-> Available Versions: 1.0.0
+> Available Versions: 1.0.0  
+> Documentation: [branding.brickmmo.com](https://branding.brickmmo.com)
 
 ## Images
 
@@ -57,7 +84,8 @@ https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png
 https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured.png
 ```
 
-> Available Versions: 1.0.0
+> Available Versions: 1.0.0  
+> Documentation: [branding.brickmmo.com](https://branding.brickmmo.com)
 
 ## Readme
 
@@ -67,7 +95,8 @@ CSS to be included in all README.md files following the [\_readme Guidelins](rea
 https://cdn.brickmmo.com/readm@1.0.0/readme.css
 ```
 
-> Available Versions: 1.0.0
+> Available Versions: 1.0.0  
+> Documentation: [readme.codeadam.ca](https://readme.codeadam.ca)
 
 ---
 
