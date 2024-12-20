@@ -29,18 +29,18 @@ https://cdn.brickmmo.com/exceptions@1.0.0/fontawesome.css
 ```
 
 > Available Versions: 1.0.0  
-> Documentation: [fonticons.brickmmo.com](https://fonticons.brickmmo.com)
+> Documentation: [glyphs.brickmmo.com](https://glyphs.brickmmo.com)
 
 ### Font Icons
 
-CSS include files to use the [BrickMMO Font Icons](https://fonticons.brickmmo.com).
+CSS include files to use the [BrickMMO Font Icons](https://glyphs.brickmmo.com).
 
 ```
-https://cdn.brickmmo.com/fonticons@1.0.0/fonticons.css
+https://cdn.brickmmo.com/glyphs@1.0.0/glyphs.css
 ```
 
 > Available Versions: 1.0.0  
-> Documentation: [fonticons.brickmmo.com](https://fonticons.brickmmo.com)
+> Documentation: [glyphs.brickmmo.com](https://glyphs.brickmmo.com)
 
 ### Icons
 
