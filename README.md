@@ -15,7 +15,7 @@ This project uses vanilla [Markdown](https://www.markdownguide.org/).
 ## Repo Resources
 
 * [BrickMMO](https://www.brickmmo.com/)
-* [BrickMMO CDN]([https://loot.brickmmo.com/](https://cdn.brickmmo.com/))
+* [BrickMMO CDN](https://cdn.brickmmo.com/)
 
 <a href="https://brickmmo.com">
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="200">
