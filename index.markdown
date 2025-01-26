@@ -7,7 +7,7 @@
 Include CSS files by placing a `<link>` tag in the `<head>` section of your HTML document:
 
 ```
-<link rel="stylesheet" href="https://cdn.brickmmo.com/library@1.0.0/librry.css">
+<link rel="stylesheet" href="https://cdn.brickmmo.com/library@1.0.0/library.css">
 ```
 
 Include JavaScript files by placing a `<script>` tag directly before your closing `</body>` tag in your HTML document:
