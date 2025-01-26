@@ -13,7 +13,7 @@ Include CSS files by placing a `<link>` tag in the `<head>` section of your HTML
 Include JavaScript files by placing a `<script>` tag directly before your closing `</body>` tag in your HTML document:
 
 ```
-<script src="https://cdn.brickmmo.com/library@1.0.0/librry.js"></script>
+<script src="https://cdn.brickmmo.com/library@1.0.0/library.js"></script>
 ```
 
 ## Quickstart
