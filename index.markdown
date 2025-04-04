@@ -95,7 +95,7 @@ https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured.png
 
 ## Readme
 
-CSS to be included in all README.md files following the [\_readme Guidelins](readme.codeadam.ca).
+CSS to be included in all README.md files following the [\_readme Guidelines](readme.codeadam.ca).
 
 ```
 https://cdn.brickmmo.com/readm@1.0.0/readme.css
