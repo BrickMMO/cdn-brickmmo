@@ -20,7 +20,7 @@ Include JavaScript files by placing a `<script>` tag directly before your closin
 
 ### Exceptions
 
-CSS include files when using BrickMMO tempates. These CSS files overwrite W3.CSS and Bootstrap colours with BrickMMO brand colours and prvide some additional CSS classes.
+CSS include files when using BrickMMO tempates. These CSS files overwrite W3.CSS and Bootstrap colours with BrickMMO brand colours and provide some additional CSS classes.
 
 ```
 https://cdn.brickmmo.com/exceptions@1.0.0/w3.css
