@@ -20,7 +20,7 @@ Include JavaScript files by placing a `<script>` tag directly before your closin
 
 ### Exceptions
 
-CSS include files when using BrickMMO tempates. These CSS files overwrite W3.CSS and Bootstrap colours with BrickMMO brand colours and prvide some additional CSS classes.
+CSS include files when using BrickMMO tempates. These CSS files overwrite W3.CSS and Bootstrap colours with BrickMMO brand colours and provide some additional CSS classes.
 
 ```
 https://cdn.brickmmo.com/exceptions@1.0.0/w3.css
@@ -47,23 +47,32 @@ PNG versions of the BRickMMO application icons from the [BrickMMO Branding Guide
 https://cdn.brickmmo.com/icons@1.0.0/brick-overflow.png
 https://cdn.brickmmo.com/icons@1.0.0/bricksum.png
 https://cdn.brickmmo.com/icons@1.0.0/brix.png
+https://cdn.brickmmo.com/icons@1.0.0/cdn.png
+https://cdn.brickmmo.com/icons@1.0.0/clock.png
 https://cdn.brickmmo.com/icons@1.0.0/colours.png
+https://cdn.brickmmo.com/icons@1.0.0/conversions.png
 https://cdn.brickmmo.com/icons@1.0.0/control-panel.png
 https://cdn.brickmmo.com/icons@1.0.0/events.png
 https://cdn.brickmmo.com/icons@1.0.0/flow.png
+https://cdn.brickmmo.com/icons@1.0.0/font-icons.png
+https://cdn.brickmmo.com/icons@1.0.0/gps.png
+https://cdn.brickmmo.com/icons@1.0.0/media.png
 https://cdn.brickmmo.com/icons@1.0.0/navigation.png
 https://cdn.brickmmo.com/icons@1.0.0/parts.png
 https://cdn.brickmmo.com/icons@1.0.0/pick-a-brick.png
+https://cdn.brickmmo.com/icons@1.0.0/pixelate.png
 https://cdn.brickmmo.com/icons@1.0.0/placekit.png
 https://cdn.brickmmo.com/icons@1.0.0/power-grid.png
 https://cdn.brickmmo.com/icons@1.0.0/qr.png
 https://cdn.brickmmo.com/icons@1.0.0/radio.png
 https://cdn.brickmmo.com/icons@1.0.0/roadview.png
+https://cdn.brickmmo.com/icons@1.0.0/stats.png
 https://cdn.brickmmo.com/icons@1.0.0/stores.png
 https://cdn.brickmmo.com/icons@1.0.0/timeline.png
 https://cdn.brickmmo.com/icons@1.0.0/timeshets.png
 https://cdn.brickmmo.com/icons@1.0.0/tracks.png
 https://cdn.brickmmo.com/icons@1.0.0/train.png
+https://cdn.brickmmo.com/icons@1.0.0/uptime.png
 https://cdn.brickmmo.com/icons@1.0.0/videokit.png
 ```
 
@@ -86,7 +95,7 @@ https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured.png
 
 ## Readme
 
-CSS to be included in all README.md files following the [\_readme Guidelins](readme.codeadam.ca).
+CSS to be included in all README.md files following the [\_readme Guidelines](readme.codeadam.ca).
 
 ```
 https://cdn.brickmmo.com/readm@1.0.0/readme.css
