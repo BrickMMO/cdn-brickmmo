@@ -91,6 +91,6 @@ a.w3-text-red:hover {
   cursor: pointer;
 }
 
-td {
-   vertical-align: middle;
+.w3-table td {
+   vertical-align: middle !important;
 }
