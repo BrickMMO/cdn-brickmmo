@@ -90,3 +90,7 @@ a.w3-text-red:hover {
 .bm-pointer {
   cursor: pointer;
 }
+
+td {
+   vertical-align: middle;
+}
