@@ -49,10 +49,9 @@ const topbarHtml = `
   body {
     margin-top: 60px !important;
   }
-
-  h1:first-of-type {
-  margin-top: 10px !important;
-}
+  .markdown-body h1:first-of-type {
+    margin-top: 10px !important;
+  }
 </style>
 `;
 
