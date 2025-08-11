@@ -95,6 +95,10 @@ https://cdn.brickmmo.com/images@1.0.0/brickmmo-symbol-red.png
 https://cdn.brickmmo.com/images@1.0.0/brickmmo-symbol-white.png
 ```
 
+```
+https://cdn.brickmmo.com/images@1.0.0/brickmmo-icon-menu-grey.png
+```
+
 > Available Versions: 1.0.0  
 > Documentation: [branding.brickmmo.com](https://branding.brickmmo.com)
 
