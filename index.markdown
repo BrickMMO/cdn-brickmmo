@@ -88,6 +88,11 @@ https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-black-horizontal.png
 https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-black.png
 https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png
 https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured.png
+https://cdn.brickmmo.com/images@1.0.0/brickmmo-symbol-black.png
+https://cdn.brickmmo.com/images@1.0.0/brickmmo-symbol-grey.png
+https://cdn.brickmmo.com/images@1.0.0/brickmmo-symbol-orange.png
+https://cdn.brickmmo.com/images@1.0.0/brickmmo-symbol-red.png
+https://cdn.brickmmo.com/images@1.0.0/brickmmo-symbol-white.png
 ```
 
 > Available Versions: 1.0.0  
