@@ -128,3 +128,5 @@ A BRickMMO header to be added to all BrickMMO asssets. Include this file directl
 <a href="https://brickmmo.com">
 <img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" width="100">
 </a>
+
+<script src="https://cdn.brickmmo.com/bar@1.0.0/bar.js"></script>
