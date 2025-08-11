@@ -50,7 +50,7 @@ const topbarHtml = `
     margin-top: 60px !important;
   }
   .markdown-body h1:first-of-type {
-    margin-top: 10px !important;
+    margin-top: 20px !important;
   }
 </style>
 `;
