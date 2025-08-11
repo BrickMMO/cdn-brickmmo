@@ -96,6 +96,8 @@ https://cdn.brickmmo.com/images@1.0.0/brickmmo-symbol-white.png
 ```
 
 ```
+https://cdn.brickmmo.com/images@1.0.0/brickmmo-icon-apps-grey.png
+https://cdn.brickmmo.com/images@1.0.0/brickmmo-icon-console-grey.png
 https://cdn.brickmmo.com/images@1.0.0/brickmmo-icon-menu-grey.png
 ```
 
