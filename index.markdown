@@ -115,9 +115,9 @@ https://cdn.brickmmo.com/readm@1.0.0/readme.css
 > Available Versions: 1.0.0  
 > Documentation: [readme.codeadam.ca](https://readme.codeadam.ca)
 
-## Bar
+## Asset Header Bar
 
-A BRickMMO header to be added to all BrickMMO asssets. Include this file directly before the close `body1` tag.
+A BrickMMO header to be added to all BrickMMO asssets. Include this file directly before the close `body` tag.
 
 ```
 <script src="https://cdn.brickmmo.com/bar@1.0.0/bar.js"></script>
