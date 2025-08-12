@@ -1,4 +1,4 @@
-# cdn
+# cdn-brickmmo
 
 <style>@import url("//cdn.brickmmo.com/readme@1.0.0/readme.css");</style>
 
