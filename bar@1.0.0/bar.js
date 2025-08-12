@@ -34,13 +34,13 @@ const topbarHtml = `
     text-decoration: none !important;
     cursor: pointer;
   }
-  #brickmmo-topbar a.brickmmo {
+  #brickmmo-topbar a#brickmmo {
     left: 20px;
   }
-  #brickmmo-topbar a.console {
+  #brickmmo-topbar a#console {
     right: 70px;
   }
-  #brickmmo-topbar a.hamburger {
+  #brickmmo-topbar a#hamburger {
     right: 20px;
   }
   #brickmmo-topbar img {
