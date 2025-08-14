@@ -3,7 +3,7 @@ const topbarHtml = `
 <div id="brickmmo-topbar">
   <a href="https://brickmmo.com/" id="brickmmo"><img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" /></a>
   <a href="https://console.brickmmo.com/" id="console"><img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-icon-console-grey.png" /></a>
-  <a href="https://assets.brickmmo.com/" id="hamburger"><img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-icon-apps-grey.png" /></a>
+  <a href="https://assets.brickmmo.com/" id="hamburger"><img src="https://cdn.brickmmo.com/images@1.0.0/bnavbar-assets.png" /></a>
 </div>
 <style>
   #brickmmo-topbar {
