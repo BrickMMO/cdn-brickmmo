@@ -11,7 +11,7 @@ const topbarHtml = `
     top: 0;
     left: 0;
     width: 100%;
-    height: 60px;
+    height: 58px;
     background: #fff;
     color: white;
     display: flex;
@@ -47,7 +47,7 @@ const topbarHtml = `
     height: 40px;
   }
   body {
-    margin-top: 60px !important;
+    margin-top: 58px !important;
   }
   .markdown-body h1:first-of-type {
     margin-top: 20px !important;
@@ -62,6 +62,6 @@ document.body.insertAdjacentHTML('afterbegin', topbarHtml);
 document.querySelectorAll('*').forEach(el => {
   const style = window.getComputedStyle(el);
   if (style.height === window.innerHeight + 'px' || style.height === '100vh') {
-    el.style.height = `calc(100vh - 60px)`;
+    el.style.height = `calc(100vh - 58px)`;
   }
 });
