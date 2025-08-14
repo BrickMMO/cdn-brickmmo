@@ -96,9 +96,10 @@ https://cdn.brickmmo.com/images@1.0.0/brickmmo-symbol-white.png
 ```
 
 ```
-https://cdn.brickmmo.com/images@1.0.0/brickmmo-icon-apps-grey.png
-https://cdn.brickmmo.com/images@1.0.0/brickmmo-icon-console-grey.png
-https://cdn.brickmmo.com/images@1.0.0/brickmmo-icon-menu-grey.png
+https://cdn.brickmmo.com/images@1.0.0/navbar-apps.png
+https://cdn.brickmmo.com/images@1.0.0/navbar-assets.png
+https://cdn.brickmmo.com/images@1.0.0/navbar-console.png
+https://cdn.brickmmo.com/images@1.0.0/navbar-menu.png
 ```
 
 > Available Versions: 1.0.0  
