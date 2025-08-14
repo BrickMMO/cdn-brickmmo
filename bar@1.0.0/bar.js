@@ -24,7 +24,7 @@ const topbarHtml = `
   #brickmmo-topbar a {
     display: block;
     position: absolute;
-    height: 40px;
+    height: 35px;
   }
   #brickmmo-topbar a:link,
   #brickmmo-topbar a:active,
@@ -44,7 +44,7 @@ const topbarHtml = `
     right: 20px;
   }
   #brickmmo-topbar img {
-    height: 40px;
+    height: 35px;
   }
   body {
     margin-top: 58px !important;
