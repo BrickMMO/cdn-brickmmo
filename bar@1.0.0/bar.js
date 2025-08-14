@@ -1,9 +1,9 @@
 // Create topbar HTML
 const topbarHtml = `
 <div id="brickmmo-topbar">
-  <a href="https://brickmmo.com" class="brickmmo"><img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" /></a>
-  <a href="https://console.brickmmo.com" class="console"><img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-icon-console-grey.png" /></a>
-  <a href="#" class="hamburger"><img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-icon-apps-grey.png" /></a>
+  <a href="https://brickmmo.com/" id="brickmmo"><img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" /></a>
+  <a href="https://console.brickmmo.com/" id="console"><img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-icon-console-grey.png" /></a>
+  <a href="https://assets.brickmmo.com/" id="hamburger"><img src="https://cdn.brickmmo.com/images@1.0.0/bnavbar-assets.png" /></a>
 </div>
 <style>
   #brickmmo-topbar {
@@ -11,7 +11,7 @@ const topbarHtml = `
     top: 0;
     left: 0;
     width: 100%;
-    height: 60px;
+    height: 58px;
     background: #fff;
     color: white;
     display: flex;
@@ -19,12 +19,12 @@ const topbarHtml = `
     padding: 0 10px;
     z-index: 9999;
     box-sizing: border-box;
-    border-bottom: 1px solid #848484;
+    border-bottom: 1px solid #ccc;
   }
   #brickmmo-topbar a {
     display: block;
     position: absolute;
-    height: 40px;
+    height: 35px;
   }
   #brickmmo-topbar a:link,
   #brickmmo-topbar a:active,
@@ -34,20 +34,20 @@ const topbarHtml = `
     text-decoration: none !important;
     cursor: pointer;
   }
-  #brickmmo-topbar a.brickmmo {
+  #brickmmo-topbar a#brickmmo {
     left: 20px;
   }
-  #brickmmo-topbar a.console {
+  #brickmmo-topbar a#console {
     right: 70px;
   }
-  #brickmmo-topbar a.hamburger {
+  #brickmmo-topbar a#hamburger {
     right: 20px;
   }
   #brickmmo-topbar img {
-    height: 40px;
+    height: 35px;
   }
   body {
-    margin-top: 60px !important;
+    margin-top: 58px !important;
   }
   .markdown-body h1:first-of-type {
     margin-top: 20px !important;
@@ -62,6 +62,6 @@ document.body.insertAdjacentHTML('afterbegin', topbarHtml);
 document.querySelectorAll('*').forEach(el => {
   const style = window.getComputedStyle(el);
   if (style.height === window.innerHeight + 'px' || style.height === '100vh') {
-    el.style.height = `calc(100vh - 60px)`;
+    el.style.height = `calc(100vh - 58px)`;
   }
 });
