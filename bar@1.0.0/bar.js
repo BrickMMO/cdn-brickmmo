@@ -19,7 +19,7 @@ const topbarHtml = `
     padding: 0 10px;
     z-index: 9999;
     box-sizing: border-box;
-    border-bottom: 1px solid #848484;
+    border-bottom: 1px solid #ccc;
   }
   #brickmmo-topbar a {
     display: block;
