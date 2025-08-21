@@ -1,12 +1,12 @@
 // Create topbar HTML
 const topbarHtml = `
-<div id="brickmmo-topbar">
-  <a href="https://brickmmo.com/" id="brickmmo"><img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" /></a>
-  <a href="https://console.brickmmo.com/" id="console"><img src="https://cdn.brickmmo.com/images@1.0.0/navbar-console.png" /></a>
-  <a href="https://assets.brickmmo.com/" id="hamburger"><img src="https://cdn.brickmmo.com/images@1.0.0/navbar-assets.png" /></a>
+<div id="bar-container">
+  <a href="https://brickmmo.com/" id="bar-brickmmo"><img src="https://cdn.brickmmo.com/images@1.0.0/brickmmo-logo-coloured-horizontal.png" /></a>
+  <a href="https://console.brickmmo.com/" id="bar-console"><img src="https://cdn.brickmmo.com/images@1.0.0/navbar-console.png" /></a>
+  <a href="https://assets.brickmmo.com/" id="bar-hamburger"><img src="https://cdn.brickmmo.com/images@1.0.0/navbar-assets.png" /></a>
 </div>
 <style>
-  #brickmmo-topbar {
+  #bar-container {
     position: fixed;
     top: 0;
     left: 0;
@@ -21,29 +21,29 @@ const topbarHtml = `
     box-sizing: border-box;
     border-bottom: 1px solid #ccc;
   }
-  #brickmmo-topbar a {
+  #bar-container a {
     display: block;
     position: absolute;
     height: 35px;
   }
-  #brickmmo-topbar a:link,
-  #brickmmo-topbar a:active,
-  #brickmmo-topbar a:visited,
-  #brickmmo-topbar a:hover {
+  #bar-container a:link,
+  #bar-container a:active,
+  #bar-container a:visited,
+  #bar-container a:hover {
     color: #ff5b00 !important;
     text-decoration: none !important;
     cursor: pointer;
   }
-  #brickmmo-topbar a#brickmmo {
+  #bar-container a#bar-brickmmo {
     left: 20px;
   }
-  #brickmmo-topbar a#console {
+  #bar-container a#bar-console {
     right: 70px;
   }
-  #brickmmo-topbar a#hamburger {
+  #bar-container a#bar-hamburger {
     right: 20px;
   }
-  #brickmmo-topbar img {
+  #bar-container img {
     height: 35px;
   }
   body {
